@@ -1,0 +1,8 @@
+build/bin
+frontend/dist
+frontend/node_modules
+data/*
+*.exe
+.qoder
+
+frontend/wailsjs/*
